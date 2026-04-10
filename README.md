@@ -76,4 +76,5 @@ Deep Research AI (Para estruturação de bibliografia)
 GitHub (Hospedagem de Portfólio)
 
 Link de acesso ao NotebookLM:
+Seja Bom em Matemática
 https://notebooklm.google.com/notebook/9637ca0a-e29f-478c-ab6d-6820948ee081
