@@ -68,6 +68,7 @@ Dualidade Onda-Partícula: Introdução à física moderna fundamentada em funç
 "Extraia 5 problemas desafiadores de Cálculo II e forneça apenas as dicas para a resolução (Método Socrático)."
 
 🛠️ Tecnologias Utilizadas
+
 Google NotebookLM
 
 Deep Research AI (Para estruturação de bibliografia)
