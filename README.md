@@ -291,9 +291,12 @@ Se usado corretamente, torna-se uma verdadeira **máquina de evolução intelect
 
 ---
 
-# 📌 Autor
+## 👨‍💻 Autor
 
-Luiz — Engenharia + IA + Alta Performance + Construção de Futuro.
+**Luiz Augusto**  
+AI Automation Developer  
+
+Especialista em soluções que integram **engenharia de software + inteligência artificial** para otimização de processos.
 
 ```
 ```
