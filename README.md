@@ -1,7 +1,7 @@
 # 📐 Seja Bom em Matemática  
 ### Arquitetura da Maestria Matemática: Uma Análise Sistêmica
 
-Este repositório documenta a criação de um **ecossistema de aprendizagem ativa no Google :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}**, projetado para transformar o estudo tradicional em uma experiência inteligente, estratégica e interdisciplinar.
+Este repositório documenta a criação de um **ecossistema de aprendizagem ativa no Google**, projetado para transformar o estudo tradicional em uma experiência inteligente, estratégica e interdisciplinar.
 
 O projeto **Seja Bom em Matemática** não é apenas uma coleção de arquivos, mas sim um ambiente de estudo de alta performance que integra:
 
