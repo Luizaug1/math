@@ -1,80 +1,139 @@
-📐 Arquitetura da Maestria Matemática: Uma Análise Sistêmica
-Este repositório documenta a criação de um ecossistema de aprendizagem ativa no NotebookLM. O projeto, intitulado "Seja Bom em Matemática", não é apenas um repositório de arquivos, mas um ambiente de estudo inteligente que integra Cálculo Avançado, Geometria Analítica e Física Teórica.
+# 📐 Seja Bom em Matemática  
+### Arquitetura da Maestria Matemática: Uma Análise Sistêmica
 
-🎯 Contexto e Objetivos
-O objetivo central deste caderno é criar uma ponte de conhecimento entre a matemática pura e suas aplicações físicas.
+Este repositório documenta a criação de um **ecossistema de aprendizagem ativa no Google :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}**, projetado para transformar o estudo tradicional em uma experiência inteligente, estratégica e interdisciplinar.
 
-Domínio Técnico: Consolidar conceitos de Cálculo (A, I, II e III) e Geometria Analítica.
+O projeto **Seja Bom em Matemática** não é apenas uma coleção de arquivos, mas sim um ambiente de estudo de alta performance que integra:
 
-Interdisciplinaridade: Utilizar a base matemática para resolver problemas complexos de Física (Mecânica, Termodinâmica e Quântica).
+- 📘 Cálculo Avançado  
+- 📐 Geometria Analítica  
+- ⚙️ Física Clássica  
+- 🔬 Física Moderna e Quântica  
+- 🤖 Inteligência Artificial aplicada ao aprendizado  
 
-Aprendizagem Acelerada: Utilizar IA para sintetizar mais de 15 obras de referência em insights acionáveis.
+---
 
-📚 Curadoria de Fontes (O "Cérebro" do Projeto)
-A base de dados foi selecionada para oferecer múltiplas perspectivas sobre o mesmo tema:
+# 🎯 Contexto e Objetivos
 
-🔹 Núcleo de Cálculo e Geometria
-Cálculo A (Flemming & Gonçalves): Foco na transição e fundamentos básicos.
+O propósito central deste projeto é construir uma **ponte sólida entre a matemática pura e suas aplicações reais**, permitindo domínio técnico e pensamento analítico avançado.
 
-Cálculo (James Stewart - Vol 2): Referência mundial em aplicações e visualização.
+## Objetivos principais:
 
-Cálculo III (Andrade-Marivaldo) & Guidorizzi (Vol 1): Rigor matemático e profundidade teórica.
+### 📌 Domínio Técnico
+Consolidar fundamentos e aprofundar temas como:
 
-Geometria Analítica (Paulo Boulos & Paulo Winter): Tratamento vetorial e estruturação espacial.
+- Cálculo A  
+- Cálculo I  
+- Cálculo II  
+- Cálculo III  
+- Geometria Analítica  
 
-🔹 Núcleo de Física e Termodinâmica
-Física Geral (Mecânica, Eletricidade e Magnetismo): De Eliane Veit a Jaime Villate.
+### 📌 Interdisciplinaridade
 
-Física Moderna e Quântica: Introduções técnicas por Carlos Lima e Osvaldo Pessoa Jr.
+Aplicar matemática em problemas complexos de:
 
-Termodinâmica Prática: Abordagem sistêmica de Mario Celso Neves.
+- Mecânica  
+- Termodinâmica  
+- Eletromagnetismo  
+- Física Moderna  
+- Física Quântica  
 
-🔹 Inteligência e Pesquisa
-Relatório Deep Research: "Arquitetura da Maestria Matemática" (Documento de análise sistêmica).
+### 📌 Aprendizagem Acelerada
 
-Base de Curadoria Digital: Compilado de 100+ canais de matemática e sites de elite (Reddit, Piqosity, YouTube).
+Utilizar IA para sintetizar **15+ livros e materiais de referência** em:
 
-🧠 Engenharia de Prompts: O Protocolo de Inteligência
-O diferencial deste projeto é o "Protocolo de Inteligência Matemática.txt", que atua como o Sistema Operacional do notebook.
+- resumos inteligentes  
+- conexões entre disciplinas  
+- revisão rápida  
+- resolução orientada de problemas  
 
-Exemplo de "Prompt de Controle":
-"Utilizando o rigor do Guidorizzi e a didática do Stewart, explique o conceito de campos vetoriais aplicado às equações de Maxwell presentes na fonte de Física 2."
+---
 
-🛠️ Cicatrizes e Refinamento (Troubleshooting)
-Desafio: O NotebookLM tendia a ignorar demonstrações formais em favor de explicações genéricas.
+# 📚 Curadoria de Fontes (O Cérebro do Projeto)
 
-Solução: Implementação do comando de "Rigor em Primeiro Lugar" no Protocolo de Inteligência, forçando a IA a citar o passo a passo algébrico antes da conclusão.
+A biblioteca foi escolhida para oferecer **múltiplas perspectivas sobre o mesmo assunto**, aumentando profundidade e compreensão.
 
-📖 Miniguia de Estudo (Entrega Final)
-1. Resumo Estruturado: A Trilha das Exatas
-O material está organizado em uma progressão lógica:
+---
 
-Fundamentos: Álgebra e Geometria Analítica (Boulos/Winter).
+## 🔹 Núcleo de Cálculo e Geometria
 
-Diferenciação e Integração: O coração do Cálculo (Flemming/Stewart).
+### 📘 Cálculo A — Flemming & Gonçalves
+Foco em fundamentos, base algébrica e transição para cálculo superior.
 
-Aplicações Físicas: Transformação de abstração matemática em trabalho, energia e calor.
+### 📘 Cálculo
+Referência global em:
 
-2. Glossário de Conceitos de Elite
-Gradiente, Divergente e Rotacional: Operadores fundamentais do Cálculo III para análise de campos.
+- aplicações práticas  
+- visualização gráfica  
+- exercícios progressivos  
 
-Entropia: Conceito termodinâmico tratado sob a ótica da precisão matemática.
+### 📘 Cálculo III — Andrade/Marivaldo
 
-Dualidade Onda-Partícula: Introdução à física moderna fundamentada em funções de onda.
+Ênfase em:
 
-3. Prompts de Revisão Reutilizáveis
-"Crie um mapa mental conectando o Teorema de Gauss às leis do eletromagnetismo presentes nas fontes."
+- derivadas parciais  
+- integrais múltiplas  
+- campos vetoriais  
 
-"Extraia 5 problemas desafiadores de Cálculo II e forneça apenas as dicas para a resolução (Método Socrático)."
+### 📘 Guidorizzi (Vol. 1)
 
-🛠️ Tecnologias Utilizadas
+Rigor matemático e profundidade teórica.
 
-Google NotebookLM
+### 📘 Geometria Analítica
 
-Deep Research AI (Para estruturação de bibliografia)
+Abordagem vetorial, espacial e geométrica.
 
-GitHub (Hospedagem de Portfólio)
+---
 
-Link de acesso ao NotebookLM:
-Seja Bom em Matemática
-https://notebooklm.google.com/notebook/9637ca0a-e29f-478c-ab6d-6820948ee081
+## 🔹 Núcleo de Física e Termodinâmica
+
+### ⚙️ Física Geral
+
+Fontes cobrindo:
+
+- Mecânica  
+- Eletricidade  
+- Magnetismo  
+
+Autores de apoio:
+
+- Eliane Veit  
+- Jaime Villate  
+
+### 🔬 Física Moderna e Quântica
+
+Introduções técnicas por:
+
+- Carlos Lima  
+
+### 🌡️ Termodinâmica Prática
+
+Abordagem sistêmica com Mario Celso Neves.
+
+---
+
+## 🔹 Inteligência e Pesquisa
+
+### 🤖 Deep Research AI
+
+Documento-base:
+
+**Arquitetura da Maestria Matemática**
+
+### 🌐 Curadoria Digital
+
+Compilado com:
+
+- 100+ canais de matemática  
+- sites de elite  
+- plataformas acadêmicas  
+
+---
+
+# 🧠 Engenharia de Prompts  
+## O Protocolo de Inteligência Matemática
+
+O maior diferencial do projeto é o arquivo:
+
+```txt
+Protocolo de Inteligência Matemática.txt
