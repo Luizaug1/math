@@ -60,7 +60,7 @@ A biblioteca foi escolhida para oferecer **múltiplas perspectivas sobre o mesmo
 ### 📘 Cálculo A — Flemming & Gonçalves
 Foco em fundamentos, base algébrica e transição para cálculo superior.
 
-### 📘 Cálculo
+### 📘 Cálculo — (Vol. 2)
 Referência global em:
 
 - aplicações práticas  
@@ -104,7 +104,7 @@ Autores de apoio:
 
 Introduções técnicas por:
 
-- Carlos Lima  
+- Carlos Lima 
 
 ### 🌡️ Termodinâmica Prática
 
@@ -125,7 +125,7 @@ Documento-base:
 Compilado com:
 
 - 100+ canais de matemática  
-- sites de elite  
+- sites de elite     
 - plataformas acadêmicas  
 
 ---
@@ -137,3 +137,163 @@ O maior diferencial do projeto é o arquivo:
 
 ```txt
 Protocolo de Inteligência Matemática.txt
+````
+
+Ele atua como **Sistema Operacional do Notebook**, guiando a IA para respostas profundas e precisas.
+
+---
+
+## 🔹 Exemplo de Prompt de Controle
+
+> Utilizando o rigor do Guidorizzi e a didática do Stewart, explique o conceito de campos vetoriais aplicado às equações de Maxwell presentes na fonte de Física 2.
+
+---
+
+# 🛠️ Cicatrizes e Refinamento (Troubleshooting)
+
+## Problema Encontrado
+
+O NotebookLM tendia a:
+
+* resumir demais
+* ignorar demonstrações formais
+* responder genericamente
+
+## Solução Aplicada
+
+Criação do comando:
+
+```txt
+Rigor em Primeiro Lugar
+```
+
+Forçando a IA a:
+
+1. Mostrar desenvolvimento algébrico
+2. Explicar cada etapa
+3. Só depois apresentar conclusão final
+
+---
+
+# 📖 Miniguia de Estudo
+
+# 1️⃣ Trilha das Exatas
+
+## Etapa 1 — Fundamentos
+
+* Álgebra
+* Vetores
+* Retas
+* Planos
+* Distâncias
+
+(Fontes: Boulos/Winter)
+
+## Etapa 2 — Cálculo
+
+* Limites
+* Derivadas
+* Integrais
+* Séries
+* Múltiplas variáveis
+
+(Fontes: Flemming / Stewart / Guidorizzi)
+
+## Etapa 3 — Aplicações Físicas
+
+Transformação da matemática em:
+
+* trabalho
+* energia
+* calor
+* fluxo
+* campos elétricos e magnéticos
+
+---
+
+# 2️⃣ Glossário de Conceitos de Elite
+
+### 📌 Gradiente
+
+\nabla f
+
+Direção de maior crescimento de uma função.
+
+### 📌 Divergente
+
+\nabla \cdot \vec{F}
+
+Mede expansão ou compressão de um campo vetorial.
+
+### 📌 Rotacional
+
+\nabla \times \vec{F}
+
+Mede tendência de rotação local.
+
+### 📌 Entropia
+
+Grandeza fundamental da Termodinâmica ligada à desordem e irreversibilidade.
+
+### 📌 Dualidade Onda-Partícula
+
+Base conceitual da física moderna.
+
+---
+
+# 3️⃣ Prompts de Revisão Reutilizáveis
+
+```txt
+Crie um mapa mental conectando o Teorema de Gauss às leis do eletromagnetismo presentes nas fontes.
+```
+
+```txt
+Extraia 5 problemas desafiadores de Cálculo II e forneça apenas dicas para resolução (Método Socrático).
+```
+
+```txt
+Explique integrais múltiplas como se eu fosse aluno de engenharia.
+```
+
+```txt
+Monte 20 questões estilo prova universitária com gabarito oculto.
+```
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+* NotebookLM
+* IA Deep Research
+* GitHub
+* Engenharia de Prompt
+* Curadoria Acadêmica Digital
+
+---
+
+# 🔗 Acesso ao NotebookLM
+
+[![📘 Abrir NotebookLM](https://img.shields.io/badge/📘%20Abrir%20NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google.com/notebook/9637ca0a-e29f-478c-ab6d-6820948ee081)
+
+## 📘 Seja Bom em Matemática
+
+---
+
+# 🚀 Visão Final
+
+Este projeto representa uma nova forma de estudar:
+
+> menos decoreba, mais compreensão
+> menos caos, mais sistema
+> menos dúvida, mais domínio
+
+Se usado corretamente, torna-se uma verdadeira **máquina de evolução intelectual**.
+
+---
+
+# 📌 Autor
+
+Luiz — Engenharia + IA + Alta Performance + Construção de Futuro.
+
+```
+```
